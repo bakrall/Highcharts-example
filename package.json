@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "highcharts": "^7.1.2"
+    "highcharts": "^9.0.0"
   },
   "devDependencies": {},
   "scripts": {
